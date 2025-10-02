@@ -1,2 +1,1 @@
-pip install -r requirements.txt
-python -c "import flask; print(flask.__version__)"
+Flask==2.3.3
